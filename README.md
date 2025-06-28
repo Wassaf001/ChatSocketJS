@@ -137,11 +137,3 @@ All operations are event-driven for efficiency and thread safety.
 - **Performance:** In-memory for speed (data loss on restart), guaranteed message order
 
 ---
-
-## 🤝 Contributing
-Pull requests and issues are welcome! Please open an issue to discuss major changes.
-
----
-
-## 📄 License
-MIT
