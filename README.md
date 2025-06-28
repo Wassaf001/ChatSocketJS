@@ -1,6 +1,6 @@
 # ChatSocketJS - Real-Time Chat Backend
 
-![ChatSocketJS Banner](images/image1.png)
+![ChatSocketJS Banner](images/image3.png)
 *Modern, lightweight, and high-performance chat backend for real-time messaging.*
 
 ---
@@ -21,7 +21,7 @@ ChatSocketJS is a Node.js-based backend for building real-time chat applications
 *All core chat features are covered by automated tests.*
 
 ### 2. Server Startup & API Endpoints
-![Server Startup](images/image3.png)
+![Server Startup](images/image1.png)
 *Server logs show startup, endpoints, and user connections.*
 
 ### 3. Client A Chat Session
